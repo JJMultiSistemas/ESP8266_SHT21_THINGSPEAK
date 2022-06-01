@@ -1,4 +1,4 @@
-//MEDIDOR DE TEMPERATURA Y HUMEDAD BY JJPolaco82
+//MEDIDOR DE TEMPERATURA Y HUMEDAD BY JJMultiSistemas
 //Publica datos en Thingspeak
 
 #include "Wire.h"
